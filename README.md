@@ -30,6 +30,6 @@ https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.md
 <br>
 A Jupyter Notebook of the tutorial is accessible from : 
 <br>
-https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.ipynb
+[https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.ipynb](https://github.com/HYF01/PheScape/blob/main/PheScape/tutorial.ipynb)
 <br>
 
