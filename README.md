@@ -26,10 +26,10 @@ You'll need to install the following packages in order to run the codes.<br>
 ## Tutorial
 For the step-by-step tutorial, please refer to: 
 <br>
-https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.md
+https://github.com/HYF01/PheScape/blob/main/PheScape/tutorial.md
 <br>
 A Jupyter Notebook of the tutorial is accessible from : 
 <br>
-[https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.ipynb](https://github.com/HYF01/PheScape/blob/main/PheScape/tutorial.ipynb)
+https://github.com/HYF01/PheScape/blob/main/PheScape/tutorial.ipynb
 <br>
 
